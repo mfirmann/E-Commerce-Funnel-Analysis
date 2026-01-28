@@ -91,6 +91,8 @@ Penurunan konversi **bukan disebabkan oleh strategi iklan**, melainkan **bug tek
 ---
 
 ## 🗂️ Project Structure
+```text
+.
 E-Commerce-Funnel-Analysis/
 │
 ├── data/
@@ -108,7 +110,7 @@ E-Commerce-Funnel-Analysis/
 │ └── insight_heatmap.png
 │
 └── README.md
-
+```
 
 ---
 
