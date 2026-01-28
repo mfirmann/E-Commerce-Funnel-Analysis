@@ -1,0 +1,13 @@
+device,source,Home_View,Product_View,Add_Cart,Checkout,Purchase
+Android,Direct,634,436,183,114,13
+Android,Google Ads,622,438,192,119,9
+Android,Instagram Ads,631,440,173,105,9
+Android,Organic,576,405,150,92,13
+Web,Direct,255,158,61,29,27
+Web,Google Ads,271,196,78,42,37
+Web,Instagram Ads,259,184,72,41,38
+Web,Organic,272,192,78,53,47
+iOS,Direct,374,278,108,57,53
+iOS,Google Ads,368,260,97,60,55
+iOS,Instagram Ads,375,264,105,60,56
+iOS,Organic,363,246,114,64,61
