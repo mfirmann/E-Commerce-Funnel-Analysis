@@ -115,9 +115,9 @@ E-Commerce-Funnel-Analysis/
 ---
 
 ## 🔗 Important Links
-- 📊 **Interactive Dashboard (Tableau Public)**: [PASTE YOUR TABLEAU LINK HERE]
-- 📁 Dataset: `/data`
-- 🧠 SQL Queries: `/sql`
+- 📊 **Interactive Dashboard (Tableau Public)**:
+- [**View Interactive Dashboard:**](https://public.tableau.com/views/E-CommerceFunnelAnalysis-AndroidBugDiscovery/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img src="visuals/E-commerce%20funnel%20analyst.png" width="900"/>
 
 ---
 
