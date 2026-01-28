@@ -121,7 +121,14 @@ E-Commerce-Funnel-Analysis/
 
 ---
 
-## 👤 Author
-**Maulana Firman Nurdiansyah**  
+## 📬 Contact
+
+**Maulana Firman Nurdiansyah**
+Data Analyst & Business Intelligent | Mathematics Graduate | TensorFlow Certified | Ex-Retail Entrepreneur
+
+* 💼 LinkedIn: https://www.linkedin.com/in/m-firman-n/
+* ✉️ Email: m.firman.n000@gmail.com
+
+---
 _Data Analyst Portfolio Project_
 
